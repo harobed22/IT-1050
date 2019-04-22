@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab_2
+namespace Lab_2
 {
-
     class Person
     {
         public int Age;
